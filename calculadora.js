@@ -1,1 +1,3 @@
-//arquivo
+// Função soma
+
+// Função Subtração
