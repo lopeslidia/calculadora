@@ -1,2 +1,2 @@
 //arquivo
-let num = 9;
+let num = 54;
